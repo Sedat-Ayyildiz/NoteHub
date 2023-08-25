@@ -1,0 +1,12 @@
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.Core\bin\Debug\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.Core\bin\Debug\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.Core\obj\Debug\MvcProject.Core.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.Core\obj\Debug\MvcProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.Core\obj\Debug\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.Core\obj\Debug\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.Core\bin\Debug\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.Core\bin\Debug\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.Core\obj\Debug\MvcProject.Core.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.Core\obj\Debug\MvcProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.Core\obj\Debug\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.Core\obj\Debug\MvcProject.Core.pdb

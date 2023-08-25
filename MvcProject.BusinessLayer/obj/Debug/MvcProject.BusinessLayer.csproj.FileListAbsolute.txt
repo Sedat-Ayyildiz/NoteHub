@@ -1,0 +1,48 @@
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.BusinessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.BusinessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.BusinessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.Common.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.DataAccessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.Entities.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.Common.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.Common.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.DataAccessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.DataAccessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\MvcProject.Entities.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.BusinessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.BusinessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.BusinessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.Common.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.DataAccessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.Entities.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.Common.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.Common.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.DataAccessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.DataAccessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\MvcProject.Entities.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.BusinessLayer\obj\Debug\MvcProject.BusinessLayer.pdb

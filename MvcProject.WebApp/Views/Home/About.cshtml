@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Hakkımızda";
+}
+
+<!-- Page Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            @Html.Partial("_PartialCategories")
+        </div>
+        <div class="col-md-8">
+            <div class="row">
+                <h2 class="text-center">NoteHub | Biz Kimiz ?</h2><hr />
+                <img src="https://i.hizliresim.com/g3peppz.jpg" alt="About Image" class="center-block img-responsive img-rounded img-thumbnail text-center" /><hr />
+                <p>
+                    Merhaba! Sevgili NoteHub kullanıcısı, notlarınızı düzenlemenize, paylaşmanıza ve keşfetmenize olanak tanıyan bir web sitesiyiz. Amacımız, not tutma deneyiminizi daha verimli, eğlenceli ve etkileşimli hale getirmektir.<br /><br />
+
+                    NoteHub ekibi olarak, herkesin fikirlerini, öğrenme süreçlerini ve bilgilerini paylaşabilmesi için bir platform sunuyoruz. Notlarınızı burada oluşturabilir ve düzenleyebilirsiniz. Sadece metinlerle sınırlı kalmayıp, notlarınıza görseller ekleyebilirsiniz. Böylece, zengin ve anlaşılır içerikler oluşturarak notlarınızı daha etkili bir şekilde ifade edebilirsiniz.<br /><br />
+
+                    NoteHub'da her kullanıcı kendi profiline sahiptir. Kendi profili sayesinde, notlarınızı takip edebilir, beğenebilir ve yorum yapabilirsiniz. Aynı şekilde, başkalarının notlarını da keşfedebilir, ilginizi çeken içerikleri beğenebilirsiniz. Bu sayede, farklı perspektiflerden öğrenme fırsatları yakalayabilir ve ilgi alanlarınıza yönelik içerikler bulabilirsiniz.<br /><br />
+
+                    NoteHub, kullanıcı dostu bir arayüz sunar ve notlarınızı kolayca yönetmenizi sağlar. Kendi kişisel not defterlerinizi oluşturabilir, notlarınızı kategorilere ayırabilir ve etiketlerle düzenleyebilirsiniz.<br /><br />
+
+                    Güvenlik ve gizlilik de NoteHub'un öncelikleri arasındadır. Kullanıcıların notlarını özel olarak saklamalarına olanak tanırız. İstediğiniz notları sadece sizinle paylaşabilir veya halka açık hale getirebilirsiniz. Böylece, kişisel veya iş notlarınızı güvende tutabilir ve yalnızca belirli kişilerle paylaşabilirsiniz.<br /><br />                    
+                </p>
+                <p class="text-center"><i class="text-center">Since | 2023</i></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section footer{
+    @Html.Partial("_PartialFooter")
+}

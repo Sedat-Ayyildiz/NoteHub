@@ -1,0 +1,288 @@
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.WebApp.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.WebApp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.WebApp.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\csc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\csc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\csc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\csi.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\csi.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\csi.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Console.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\vbc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\vbc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.BusinessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.Common.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.Entities.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Webpages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\WebMatrix.Data.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\FakeData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.BusinessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.BusinessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.Common.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.Common.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.Entities.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\WebMatrix.Data.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Webpages.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Helpers.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\System.Web.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\bin\FakeData.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\MvcProjectSolution\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.WebApp.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.WebApp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.WebApp.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csi.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csi.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csi.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Console.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\vbc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\vbc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.BusinessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Common.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Entities.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.Data.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\FakeData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.BusinessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.BusinessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Common.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Common.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Entities.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.Data.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Helpers.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\bin\FakeData.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.5-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.WebApp.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.WebApp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.WebApp.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csi.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csi.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\csi.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Console.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\vbc.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\vbc.rsp
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.BusinessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Common.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Core.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Entities.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Helpers.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Mvc.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.Data.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\FakeData.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.BusinessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.BusinessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Common.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Common.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Core.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.Entities.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.Data.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Helpers.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\System.Web.Mvc.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\MvcProject.DataAccessLayer.dll.config
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\bin\FakeData.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\8.6-) MVC5- Note Hub\MvcProject.WebApp\obj\Debug\MvcProject.WebApp.pdb

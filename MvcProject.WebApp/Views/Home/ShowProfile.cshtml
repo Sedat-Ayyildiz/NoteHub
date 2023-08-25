@@ -1,0 +1,25 @@
+﻿@using MvcProject.Entities
+
+@{
+    ViewBag.Title = "Kullanıcı Profili";
+}
+
+<div class="container">
+    <div class="row">
+        <h2>@ViewBag.Title</h2>
+        <hr />
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <img src="~/Images/@Model.ProfileImageFilename" alt="ProfilePhoto" class="img-circle" width="128" height="128" />
+        </div>
+        <div class="col-md-10">
+            <h3>@(Model.Name + " " + Model.Surname)</h3>
+            <hr />
+            <h5><b>Kullanıcı Adı : </b>@Model.Username</h5>
+            <h5><b>E-Posta : </b>@Model.Email</h5>
+            <br />
+            <h6><a href="#">More... </a></h6>
+        </div>
+    </div>
+</div>

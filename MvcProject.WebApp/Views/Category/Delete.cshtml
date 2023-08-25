@@ -1,0 +1,71 @@
+﻿@using MvcProject.WebApp
+@model MvcProject.Entities.Category
+
+@{
+    ViewBag.Title = "Kategori Kaldırma";
+}
+
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <h2>@ViewBag.Title</h2>
+        <h3>Silmek istediğinize emin misiniz ?</h3>
+        <hr />
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.CreatedOn)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CreatedOn)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModifiedOn)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModifiedOn)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ModifiedUserName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ModifiedUserName)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                @Bootstrap.Button("danger", string.Empty, "submit", "remove", " Kaldır")
+                @Bootstrap.LinkButton("/Category/Index", "default", string.Empty, string.Empty, "arrow-left", " Geri Dön")
+            </div>
+        }
+    </div>
+</div>
